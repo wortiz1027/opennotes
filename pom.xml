@@ -9,8 +9,8 @@
     
     <modules>
         <module>model</module>
-        <module>opennotes</module>
         <module>opennotesear</module>
+        <module>notes</module>
     </modules>
     
     <developers>
